@@ -1,0 +1,146 @@
+body {
+  color:#40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.12rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+.sub {
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  color: #11999E;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: green;
+  border-width: 5px;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a{
+  color:#11999E;
+  font-family: 'Merriweather', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+color:#EAF6F6;
+}
+
+.SM{
+  height: 60px;
+  width: 60px;
+}
+.about{
+  width: 30%;
+  margin:  40px auto 60px auto;
+}
+
+.badhu {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+}
+
+.responsive {
+    width: 25%;
+    float:left;
+    margin-right: 30px;
+}
+
+
+.chillies {
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+
+.top {
+  background-color: #D3F6F3;
+  position: relative;
+  padding-top: 50px;
+}
+
+.middle-container{
+  margin: 100px auto;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+}
+
+.web {
+  text-decoration: underline;
+  font-family: 'Merriweather', serif;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.msg{
+  width:40%;
+  margin:40px auto 60px auto;
+}
+
+.btn {
+    background: #da1b60;
+    background-image: -webkit-linear-gradient(top, #da1b60, #ff8a00);
+    background-image: -moz-linear-gradient(top, #da1b60, #ff8a00);
+    background-image: -ms-linear-gradient(top, #da1b60, #ff8a00);
+    background-image: -o-linear-gradient(top, #da1b60, #ff8a00);
+    background-image: linear-gradient(to bottom, #da1b60, #ff8a00);
+    -webkit-border-radius: 20;
+    -moz-border-radius: 20;
+    border-radius: 20px;
+    font-family: Arial;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+.butn:hover {
+  background: ;
+  text-decoration: none;
+}
+
+.copyright{
+  color:#EAF6F6;
+  font-size: 0.75rem;
+}
